@@ -1,0 +1,2 @@
+python,platform,numpy,pandas,scipy,statsmodels,scikit-learn,tensorflow,xgboost,ruptures,prophet,matplotlib,seaborn
+3.12.16,macOS-15.7.4-arm64-arm-64bit,2.5.5,3.1.1,1.18.1,0.15.0,1.9.1,2.21.0,3.4.1,v1.1.10,1.5.0,3.11.2,0.13.2
